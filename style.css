@@ -1,3 +1,6 @@
 *{
     background: rgb(12, 233, 67);
 }
+img{
+    background-size: cover;
+}
