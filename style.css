@@ -1,6 +1,9 @@
 *{
     background: rgb(12, 233, 67);
 }
-img{
-    background-size: contain;
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
