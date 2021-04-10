@@ -2,5 +2,6 @@
     background: rgb(12, 233, 67);
 }
 img{
-    background-size: cover;
+    width: 500px;
+    height: 500px;
 }
